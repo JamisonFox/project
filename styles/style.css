@@ -1,0 +1,45 @@
+body {
+    width:1000px;
+    height: 500px;
+    margin: 0 auto;
+}
+img {
+    object-fit:cover;
+    width:200px;
+    height:200px; 
+    
+    
+}   
+div{
+    text-align: center;
+    padding-top:20px;
+}
+h2{
+    text-align: left;  
+       
+}
+p {
+    text-align: left;
+    
+}
+button { 
+    display:block;
+    margin:0 auto;
+}
+
+div.container {
+    width:800;
+    height:300;
+    align-content: center;
+    text-align: left;
+    
+}
+div.control{
+    width:800px;
+    margin: 0 auto;
+}
+
+img.imgcontainersec { 
+    margin-left:80px;
+    margin-right:80px;
+}
